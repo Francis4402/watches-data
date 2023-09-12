@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1, 
+      "name": "Apple-Watch", 
+      "price": 200
+    },
+    {
+      "id": 2, 
+      "name": "Same Watch", 
+      "price": 200
+    },
+    {
+      "id": 3, 
+      "name": "MI Watch", 
+      "price": 200
+    },
+    {
+      "id": 4, 
+      "name": "Gandu-Watch", 
+      "price": 600,
+    },
+    {
+      "id": 5, 
+      "name": "Wealer", 
+      "price": 900,
+    },
+  ]
